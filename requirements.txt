@@ -1,0 +1,5 @@
+Django
+django-debug-toolbar==2.2
+python-decouple==3.3
+whitenoise
+djangorestframework
